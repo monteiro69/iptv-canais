@@ -1,2 +1,0 @@
-# iptv-canais
-iptv-canais
